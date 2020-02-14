@@ -1,8 +1,8 @@
 # concept
 
-- LNF chooser
+- LNF chooser in cala
 - Latte Dock
-- Win10 Tiled Menu
+- XFCE like whisker menu
 - Kvantum
 - Materia
-- Web Menu
+- Web Menu category
